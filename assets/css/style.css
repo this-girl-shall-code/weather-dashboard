@@ -1,0 +1,21 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+
+.history-btns{
+   height: 373px;
+   overflow: auto;
+   margin: auto;
+   padding: 0;
+}
+
+@media only screen and (max-width: 1240px) and (min-width: 992px){
+     
+   .smaller-text h5{
+      font-size: 16px;
+   }
+   .smaller-text p{
+      font-size: 12px;
+   }
+}
